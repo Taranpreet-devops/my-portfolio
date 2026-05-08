@@ -1,3 +1,6 @@
 baseURL = 'http://www.taranpreet.co.in/'
 title = 'Taranpreet Singh | Cloud Engineer'
 theme = "PaperMod"
+
+canonifyURLS = true
+relativeURLS = false
